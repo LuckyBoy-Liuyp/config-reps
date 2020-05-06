@@ -19,6 +19,7 @@ ignore:
   - /doc.html
   - /zipkin/**
   - /admin/readcard/**
+  - /admin/dict/listDict
 swagger:
   client:
     - panda-user-service
